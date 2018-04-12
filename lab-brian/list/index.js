@@ -19,12 +19,3 @@ exports.listPop = arr => {
   arr.pop();
   return arr;
 }
-
-
-// console.log(myList);
-// myList = pushToList([3,4,5], myList);
-// console.log(myList);
-// let copiedList = copyList(myList);
-// console.log(copiedList);
-// listPop(copiedList);
-// console.log(copiedList);
